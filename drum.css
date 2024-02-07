@@ -1,0 +1,80 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.w {
+  background-image: url(images/Wphoto_5_2023-06-05_17-25-42.jpg);
+}
+
+.a {
+  background-image: url(images/Aphoto_2_2023-06-05_17-25-42.jpg);
+}
+
+.s {
+  background-image: url(images/Sphoto_1_2023-06-05_17-25-42.jpg);
+}
+
+.d {
+  background-image: url(images/Dphoto_6_2023-06-05_17-25-42.jpg);
+}
+
+.j {
+  background-image: url(images/Jphoto_4_2023-06-05_17-25-42.jpg);
+}
+
+.k {
+  background-image: url(images/Kphoto_7_2023-06-05_17-25-42.jpg);
+}
+
+.l {
+  background-image: url(images/Lphoto_3_2023-06-05_17-25-42.jpg);
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #00ff1a;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
